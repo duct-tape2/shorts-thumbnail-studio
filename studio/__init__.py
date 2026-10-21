@@ -1,1 +1,1 @@
-
+"""Offline SmartLife thumbnail studio."""
